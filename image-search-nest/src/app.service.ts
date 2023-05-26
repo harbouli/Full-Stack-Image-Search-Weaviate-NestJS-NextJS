@@ -32,7 +32,6 @@ export class AppService {
       .withLimit(2)
       .do();
     const imgs = await resImage.data.Get.Images;
-    console.log(imgs);
     return imgs;
   }
 }
