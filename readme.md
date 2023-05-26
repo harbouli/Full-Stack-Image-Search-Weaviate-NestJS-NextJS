@@ -19,7 +19,6 @@ Image Search: Harnessing the Power of NestJS, Next.js, and Vector Databases for 
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -68,12 +67,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request to the original repository.
 
 If you have any questions or need assistance, feel free to open an issue or reach out to the project maintainers.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-The MIT License is a permissive open source license that allows you to use, modify, and distribute the code with limited restrictions. You can find a copy of the license in the [LICENSE](LICENSE) file.
 
 ## Contact
 
